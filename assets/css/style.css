@@ -1,0 +1,110 @@
+body{ 
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 69px;
+	
+}
+
+.bgpurple{
+	background: #660066;
+}
+
+header{
+	background-image: url("../img/bg_hero.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 51rem;
+
+}
+
+.display-2 {
+font-size: 3.5rem;
+line-height: 1.2;	
+	
+}
+
+.pth1{
+	padding-top: 450px;
+}
+
+hr{
+	width: 295px;
+	height: 1px;
+	background: white;
+}
+
+.heroh2{
+	margin-left: 150px;
+	margin-right: 150px;
+	line-height: 35px;
+}
+
+.espaciado{
+	line-height: 35px;
+}
+
+.hr2{
+	background: black;
+	height: 1px;
+	width: 100px;
+}
+
+.experiencia {
+	text-align: center;
+}
+
+.colori{
+	color: #660066;
+}
+
+.pwork{
+	padding: 80px;
+}
+
+.hrwork{
+	height: 1px;
+	width: 120px;
+	background: white;
+}
+
+.fsizefooter{
+	font-size: 44px;
+}
+
+.space{
+	letter-spacing: 9px;
+}
+
+.mtmagda{
+	margin-top: -16px;
+	height: 0px;
+}
+
+.car-deck, p{
+	color: #373A3C;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.aexp{
+	text-decoration: none;
+	color: black;
+}
+
+.sizework{
+	font-weight: 600;
+	font-size: 36px;
+}
+
+.ptbwork{
+	padding-bottom: 100px;
+	padding-top: 20px;
+}
+
+.fontitle{
+	font-weight: 600;
+	
+}
